@@ -1,0 +1,16 @@
+{
+  "name": "node_js_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rightmove.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zoltan Biber",
+  "license": "ISC",
+  "devDependencies": {
+    "prompt": "^1.0.0",
+    "rightmove-scraper": "^0.4.1"
+  }
+}
